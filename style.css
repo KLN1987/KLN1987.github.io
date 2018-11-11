@@ -20,8 +20,7 @@ margin-bottom: 0px;
 }
 h2{
 font-size: 32px;
-border-width: 1px;
-  border-color:rgb(99, 90, 90);
+border-bottom: 1px grey solid;
 margin-bottom: 8px;
 }
 h3{
